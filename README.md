@@ -1,4 +1,4 @@
-- Hi, I'm Viktor
+- Hi, I'm 'Sarah'
 - I literally love playing instruments, drawing and playing pc games
 - I mostly make stuff in js
 - Based in Czech
