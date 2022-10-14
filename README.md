@@ -1,4 +1,1 @@
-- Hi, I'm 'Sarah'
-- I literally love playing instruments, drawing and playing pc games
-- I mostly make stuff in js
-- Based in Czech
+my name is sara and im from czechia, i started programming 2 yrs ago. i do websites and small games or helpful programs, my goal is to make app now, but in the future i wanna make some big game. i did few ( like 6 ) discord bots, about 2 websites and currently working on one. i also do graphic design and digital art, which makes it easier for me to work alone.
