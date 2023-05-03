@@ -1,1 +1,1 @@
-my name is sara and im from czechia, i started programming 2 yrs ago. i do websites and small games or helpful programs, my goal is to make app now, but in the future i wanna make some big games. i did few ( abt 6 ) discord bots, about 2 websites and currently working on one. i also do graphic design and digital art, which makes it easier for me to work alone.
+
